@@ -15,4 +15,4 @@ Powerline for vim
 Introduction
 ------------
 
-Personally maintained keep it simple version vim-powerline
+Keeping this to read through some vimscript.
